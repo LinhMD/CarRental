@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Capstone\\CarRental\\CarRental.API\\CarRental.API.csproj": {}
+    "D:\\Capstone\\CarRental\\CarRental.API\\CarRental.API.csproj": {}
   },
   "projects": {
-    "d:\\Capstone\\CarRental\\CarRental.API\\CarRental.API.csproj": {
+    "D:\\Capstone\\CarRental\\CarRental.API\\CarRental.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Capstone\\CarRental\\CarRental.API\\CarRental.API.csproj",
+        "projectUniqueName": "D:\\Capstone\\CarRental\\CarRental.API\\CarRental.API.csproj",
         "projectName": "CarRental.API",
-        "projectPath": "d:\\Capstone\\CarRental\\CarRental.API\\CarRental.API.csproj",
+        "projectPath": "D:\\Capstone\\CarRental\\CarRental.API\\CarRental.API.csproj",
         "packagesPath": "C:\\Users\\maidi\\.nuget\\packages\\",
-        "outputPath": "d:\\Capstone\\CarRental\\CarRental.API\\obj\\",
+        "outputPath": "D:\\Capstone\\CarRental\\CarRental.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maidi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,14 +26,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "d:\\Capstone\\CarRental\\CarRental.Data\\CarRental.Data.csproj": {
-                "projectPath": "d:\\Capstone\\CarRental\\CarRental.Data\\CarRental.Data.csproj"
+              "D:\\Capstone\\CarRental\\CarRental.Data\\CarRental.Data.csproj": {
+                "projectPath": "D:\\Capstone\\CarRental\\CarRental.Data\\CarRental.Data.csproj"
               },
-              "d:\\Capstone\\CarRental\\CarRental.Service\\CarRental.Service.csproj": {
-                "projectPath": "d:\\Capstone\\CarRental\\CarRental.Service\\CarRental.Service.csproj"
+              "D:\\Capstone\\CarRental\\CarRental.Service\\CarRental.Service.csproj": {
+                "projectPath": "D:\\Capstone\\CarRental\\CarRental.Service\\CarRental.Service.csproj"
               },
-              "d:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj": {
-                "projectPath": "d:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj"
+              "D:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj": {
+                "projectPath": "D:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj"
               }
             }
           }
@@ -48,6 +48,40 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools.DotNet": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "QRCoder": {
+              "target": "Package",
+              "version": "[1.4.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
@@ -80,14 +114,14 @@
         }
       }
     },
-    "d:\\Capstone\\CarRental\\CarRental.Data\\CarRental.Data.csproj": {
+    "D:\\Capstone\\CarRental\\CarRental.Data\\CarRental.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Capstone\\CarRental\\CarRental.Data\\CarRental.Data.csproj",
+        "projectUniqueName": "D:\\Capstone\\CarRental\\CarRental.Data\\CarRental.Data.csproj",
         "projectName": "CarRental.Data",
-        "projectPath": "d:\\Capstone\\CarRental\\CarRental.Data\\CarRental.Data.csproj",
+        "projectPath": "D:\\Capstone\\CarRental\\CarRental.Data\\CarRental.Data.csproj",
         "packagesPath": "C:\\Users\\maidi\\.nuget\\packages\\",
-        "outputPath": "d:\\Capstone\\CarRental\\CarRental.Data\\obj\\",
+        "outputPath": "D:\\Capstone\\CarRental\\CarRental.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maidi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -102,8 +136,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "d:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj": {
-                "projectPath": "d:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj"
+              "D:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj": {
+                "projectPath": "D:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj"
               }
             }
           }
@@ -155,14 +189,14 @@
         }
       }
     },
-    "d:\\Capstone\\CarRental\\CarRental.Service\\CarRental.Service.csproj": {
+    "D:\\Capstone\\CarRental\\CarRental.Service\\CarRental.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Capstone\\CarRental\\CarRental.Service\\CarRental.Service.csproj",
+        "projectUniqueName": "D:\\Capstone\\CarRental\\CarRental.Service\\CarRental.Service.csproj",
         "projectName": "CarRental.Service",
-        "projectPath": "d:\\Capstone\\CarRental\\CarRental.Service\\CarRental.Service.csproj",
+        "projectPath": "D:\\Capstone\\CarRental\\CarRental.Service\\CarRental.Service.csproj",
         "packagesPath": "C:\\Users\\maidi\\.nuget\\packages\\",
-        "outputPath": "d:\\Capstone\\CarRental\\CarRental.Service\\obj\\",
+        "outputPath": "D:\\Capstone\\CarRental\\CarRental.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maidi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -177,11 +211,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "d:\\Capstone\\CarRental\\CarRental.Data\\CarRental.Data.csproj": {
-                "projectPath": "d:\\Capstone\\CarRental\\CarRental.Data\\CarRental.Data.csproj"
+              "D:\\Capstone\\CarRental\\CarRental.Data\\CarRental.Data.csproj": {
+                "projectPath": "D:\\Capstone\\CarRental\\CarRental.Data\\CarRental.Data.csproj"
               },
-              "d:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj": {
-                "projectPath": "d:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj"
+              "D:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj": {
+                "projectPath": "D:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj"
               }
             }
           }
@@ -195,6 +229,32 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Firebase.Auth": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "FirebaseAdmin": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "FirebaseStorage.net": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -215,14 +275,14 @@
         }
       }
     },
-    "d:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj": {
+    "D:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj",
+        "projectUniqueName": "D:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj",
         "projectName": "CrudApiTemplate",
-        "projectPath": "d:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj",
+        "projectPath": "D:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj",
         "packagesPath": "C:\\Users\\maidi\\.nuget\\packages\\",
-        "outputPath": "d:\\Capstone\\CarRental\\CrudApiTemplate\\obj\\",
+        "outputPath": "D:\\Capstone\\CarRental\\CrudApiTemplate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maidi\\AppData\\Roaming\\NuGet\\NuGet.Config"

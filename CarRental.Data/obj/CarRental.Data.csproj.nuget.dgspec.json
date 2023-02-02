@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Capstone\\CarRental\\CarRental.Data\\CarRental.Data.csproj": {}
+    "D:\\Capstone\\CarRental\\CarRental.Data\\CarRental.Data.csproj": {}
   },
   "projects": {
-    "d:\\Capstone\\CarRental\\CarRental.Data\\CarRental.Data.csproj": {
+    "D:\\Capstone\\CarRental\\CarRental.Data\\CarRental.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Capstone\\CarRental\\CarRental.Data\\CarRental.Data.csproj",
+        "projectUniqueName": "D:\\Capstone\\CarRental\\CarRental.Data\\CarRental.Data.csproj",
         "projectName": "CarRental.Data",
-        "projectPath": "d:\\Capstone\\CarRental\\CarRental.Data\\CarRental.Data.csproj",
+        "projectPath": "D:\\Capstone\\CarRental\\CarRental.Data\\CarRental.Data.csproj",
         "packagesPath": "C:\\Users\\maidi\\.nuget\\packages\\",
-        "outputPath": "d:\\Capstone\\CarRental\\CarRental.Data\\obj\\",
+        "outputPath": "D:\\Capstone\\CarRental\\CarRental.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maidi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "d:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj": {
-                "projectPath": "d:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj"
+              "D:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj": {
+                "projectPath": "D:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "d:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj": {
+    "D:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj",
+        "projectUniqueName": "D:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj",
         "projectName": "CrudApiTemplate",
-        "projectPath": "d:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj",
+        "projectPath": "D:\\Capstone\\CarRental\\CrudApiTemplate\\CrudApiTemplate.csproj",
         "packagesPath": "C:\\Users\\maidi\\.nuget\\packages\\",
-        "outputPath": "d:\\Capstone\\CarRental\\CrudApiTemplate\\obj\\",
+        "outputPath": "D:\\Capstone\\CarRental\\CrudApiTemplate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maidi\\AppData\\Roaming\\NuGet\\NuGet.Config"

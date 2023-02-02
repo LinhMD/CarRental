@@ -1,0 +1,15 @@
+d:\Capstone\CarRental\CarRental.Data\bin\Debug\net6.0\CarRental.Data.deps.json
+d:\Capstone\CarRental\CarRental.Data\bin\Debug\net6.0\CarRental.Data.dll
+d:\Capstone\CarRental\CarRental.Data\bin\Debug\net6.0\CarRental.Data.pdb
+d:\Capstone\CarRental\CarRental.Data\bin\Debug\net6.0\CrudApiTemplate.dll
+d:\Capstone\CarRental\CarRental.Data\bin\Debug\net6.0\CrudApiTemplate.pdb
+d:\Capstone\CarRental\CarRental.Data\obj\Debug\net6.0\CarRental.Data.csproj.AssemblyReference.cache
+d:\Capstone\CarRental\CarRental.Data\obj\Debug\net6.0\CarRental.Data.GeneratedMSBuildEditorConfig.editorconfig
+d:\Capstone\CarRental\CarRental.Data\obj\Debug\net6.0\CarRental.Data.AssemblyInfoInputs.cache
+d:\Capstone\CarRental\CarRental.Data\obj\Debug\net6.0\CarRental.Data.AssemblyInfo.cs
+d:\Capstone\CarRental\CarRental.Data\obj\Debug\net6.0\CarRental.Data.csproj.CoreCompileInputs.cache
+d:\Capstone\CarRental\CarRental.Data\obj\Debug\net6.0\CarRental.Data.csproj.CopyComplete
+d:\Capstone\CarRental\CarRental.Data\obj\Debug\net6.0\CarRental.Data.dll
+d:\Capstone\CarRental\CarRental.Data\obj\Debug\net6.0\refint\CarRental.Data.dll
+d:\Capstone\CarRental\CarRental.Data\obj\Debug\net6.0\CarRental.Data.pdb
+d:\Capstone\CarRental\CarRental.Data\obj\Debug\net6.0\ref\CarRental.Data.dll
